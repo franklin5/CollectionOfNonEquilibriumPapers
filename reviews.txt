@@ -1,10 +1,12 @@
 Quantum many-body systems out of equilibrium
 J. Eisert,	M. Friesdorf	& C. Gogolin
 http://www.nature.com/nphys/journal/v11/n2/full/nphys3215.html
+How do closed quantum many-body systems driven out of equilibrium eventually achieve equilibration? And how do these systems thermalize, given that they comprise so many degrees of freedom? Progress in answering these—and related—questions has accelerated in recent years—a trend that can be partially attributed to success with experiments performing quantum simulations using ultracold atoms and trapped ions. Here we provide an overview of this progress, specifically in studies probing dynamical equilibration and thermalization of systems driven out of equilibrium by quenches, ramps and periodic driving. In doing so, we also address topics such as the eigenstate thermalization hypothesis, typicality, transport, many-body localization and universality near phase transitions, as well as future prospects for quantum simulation.
 
 Topological protection: Of bagels and Burgers
 Thomas Witten
 http://www.nature.com/nphys/journal/v11/n2/full/nphys3232.html
+Ever tried deforming a tiny loop drawn on a bagel into a loop that threads the hole? It can't be done — and topology is the arcane branch of mathematics that explains why. More recently, topology has been used to identify 'protected modes of motion' that exist in certain esoteric electronic systems, such as quantum hall liquids, ultracold graphene and polyacetylene polymers. A year ago, as they reported in Nature Physics, Charles Kane and Tom Lubensky1 revealed how to harness the same principles to create analogous protected modes using only geometry. Now, also in Nature Physics, Jayson Paulose and colleagues2 find that lattice defects create a new class of protected modes.
 
 Topics in non-equilibrium physics
 Abigail Klopper
@@ -17,4 +19,21 @@ http://www.nature.com/nphys/journal/v11/n2/full/nphys3171.html
 Colloquium: Nonequilibrium dynamics of closed interacting quantum systems
 Anatoli Polkovnikov, Krishnendu Sengupta, Alessandro Silva, and Mukund Vengalattore
 http://journals.aps.org/rmp/abstract/10.1103/RevModPhys.83.863
+
+Diverse phenomena, common themes
+Christopher Jarzynski
+http://www.nature.com/nphys/journal/v11/n2/full/nphys3229.html
+Our framework for understanding non-equilibrium behaviour is yet to match the simplicity and power of equilibrium statistical physics. But recent theoretical and experimental advances reveal key principles that unify seemingly unrelated topics.
+
+Classical thermodynamics is built around the concept of equilibrium states. If we leave a system undisturbed, it relaxes to an apparently quiescent state in which nothing much seems to be happening. From the late nineteenth century through much of the twentieth century, a comprehensive theoretical framework — informed by ever more precise experiments — was developed to explain how the macroscopic properties of these equilibrium states arise from interactions between their microscopic constituents. A grand triumph of this effort was the success in understanding phase transitions and critical phenomena, which provided new tools, stimulated careful experiments and influenced our view of what constitutes a successful physical theory.
+
+If we shift our focus away from equilibrium states, we find a rich universe of non-equilibrium behaviour that has been the object of increasing attention in recent decades. The contributions to this Insight highlight some of the progress in this field. Although they cover a range of topics, several unifying themes provide links. These include the central role of the second law of thermodynamics, the importance of fluctuations as a key to understanding out-of-equilibrium behaviour, the thermodynamic relevance and implications of information processing and the subtleties that arise when quantum mechanics enters the picture.
+
+The Review Article by Jens Eisert and co-workers4 addresses an entirely different aspect of non-equilibrium behaviour. The authors ask: how does a closed quantum many-body system self-thermalize? In others words, does the Schrödinger equation enable us to understand why a thermally isolated system relaxes spontaneously to equilibrium? For a classical many-body system, like a gas of atoms modelled as a collection of Newtonian particles, self-thermalization involves concepts such as ergodicity and mixing — related to a system's ability to self-randomize effectively — as well as typicality, which expresses the idea that most accessible microscopic states describe the same macroscopic state. The linear Schrödinger equation, however, does not give rise to the sort of nonlinear, chaotic dynamics responsible for ergodicity and mixing in classical many-body systems. This suggests that new concepts are needed to understand thermalization in isolated quantum systems. One approach invokes the eigenstate thermalization hypothesis5, which states that individual energy eigenstates of complex systems are effectively thermal, in the sense that expectation values of suitable observables are equal to their thermal average values. The tendency of a system to relax to equilibrium is then inherited from this conjectured property of the eigenstates themselves.
+
+Quantum quench phase diagrams of an s-wave BCS-BEC condensate
+Emil A. Yuzbashyan, Maxim Dzero, Victor Gurarie, Matthew S. Foster
+http://arxiv.org/abs/1412.7165
+universal phase diagram conjecture
+
 
